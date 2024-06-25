@@ -7,7 +7,7 @@ function App() {
   return (
     <div className='App'>
       <UserList dataSource="https://jsonplaceholder.typicode.com/users" />
-      <UserProfile name='vuth' email='vuthpeter09@gmail.com' dataSource="https://jsonplaceholder.typicode.com/posts" />
+      <UserProfile name='unknown' email='unknown@email.com' dataSource="https://jsonplaceholder.typicode.com/posts" />
     </div>
   );
 }
